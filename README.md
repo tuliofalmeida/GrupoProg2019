@@ -7,7 +7,7 @@
 BMI is a mathematical calculation to find out the body mass index, 
 it is widely used in studies for nutritional assessment, and even diseases such as Tuberculosis (TB) [[1]][ref1].
 
-This project aims to create a BMI calculator, using the python language [[2]], to monitor people with TB disease.
+This project aims to create a BMI calculator, using the python language [[2]][ref2], to monitor people with TB disease.
 
 ## Example usage
 
