@@ -1,4 +1,4 @@
-# IMC
+# BMI
 
 [![Build Status](https://travis-ci.com/imcf/python-imcflibs.svg?branch=master)](https://travis-ci.com/imcf/python-imcflibs)
 
